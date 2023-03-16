@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #7c8f86;
+}
+.header {
+  text-align: center;
+  margin: auto;
+  /* padding: 10px; */ font-weight: 900;
+
+}
+.container {
+  background-color: #3e5780;
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 5%;
+}
+.btn-hand{
+  cursor: pointer;
+  background-color:#52a158;
+  border-radius: 12%;
+  padding: 2%;
+  margin: 2%;
+  border-radius: 1rem;
+  
+}
+.btn-hand-second{
+  cursor: pointer;
+  border-radius: 1rem;
+  background-color: red;
+  padding: 0.3rem;
+  margin: auto;
+}
+.btn-deleted{
+  cursor: pointer;
+  border-radius:  1rem;
+  padding: 1%;
+  margin: auto;
+  background-color: #c95766;
+  
+
+}
+.header{
+  padding: 2%;
+  margin: 2%;
+  text-align: top;
+  
+}
+.List-heading{
+  background-color:#427382 ;
+  height: 25px;
+  /* width: 50px; */
+  font-weight: 900;
+}
+.btn-header{
+  background-color: #757b80;
+}
+.input-data{
+
+  padding: 2%;
+  margin: 1%;
+  border-radius: 1rem;
+}
+.listData{ 
+  background-color:darksalmon;
+  width: 15rem;
+  height: 1.5rem;
+  border-radius: 1rem;
+}
